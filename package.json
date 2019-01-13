@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Lynne-Daniels/tracks-server#readme",
   "dependencies": {
     "express": "^4.16.4",
+    "mongoose": "^5.4.3",
     "request": "^2.88.0"
   }
 }

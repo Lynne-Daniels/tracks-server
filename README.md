@@ -8,3 +8,8 @@ Handle spot location data requests, interface with findmespot API, and send data
 -[ ] understand when to request fresh data vs when to get data from DB
 
 -[ ] return data to front-end application named Tracks
+
+### To Run
+
+```$mongod``` turn on the database(locally installed)
+
